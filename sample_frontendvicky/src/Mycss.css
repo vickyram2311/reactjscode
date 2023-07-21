@@ -1,0 +1,13 @@
+table{
+    border-style: double;
+
+    background-color: antiquewhite;
+}
+#head
+{
+    color:blue;
+}
+td
+{
+    color:bisque
+}
